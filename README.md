@@ -68,19 +68,19 @@ Run the app.py using
 
 
 ## Screenshots
-**Main Screen**
-![App Screenshot](https://github.com/tanishaguptaaaa/Resume_Analyzer/blob/main/Logo/image1.png?raw=true)
+- **Main Screen**  
+  ![App Screenshot](https://github.com/tanishaguptaaaa/Resume_Analyzer/blob/main/Logo/image1.png?raw=true)
 
-**Basic Info and Resume Score**
-![App Screenshot](https://github.com/tanishaguptaaaa/Resume_Analyzer/blob/main/Logo/image2.png?raw=truee)
+- **Basic Info and Resume Score**  
+  ![App Screenshot](https://github.com/tanishaguptaaaa/Resume_Analyzer/blob/main/Logo/image2.png?raw=true)
 
-**Extracted Skills from Resume ,Job role prediction and Skills Suggestions**
-![App Screenshot](https://github.com/tanishaguptaaaa/Resume_Analyzer/blob/main/Logo/image3.png?raw=true)
+- **Extracted Skills from Resume, Job Role Prediction, and Skills Suggestions**  
+  ![App Screenshot](https://github.com/tanishaguptaaaa/Resume_Analyzer/blob/main/Logo/image3.png?raw=true)
 
-**Relevant courses**
-![App Screenshot](https://github.com/tanishaguptaaaa/Resume_Analyzer/blob/main/Logo/image4.png?raw=true)
+- **Relevant Courses**  
+  ![App Screenshot](https://github.com/tanishaguptaaaa/Resume_Analyzer/blob/main/Logo/image4.png?raw=true)
 
-**Relevant Skills, Courses, and Roles aligned with the provided job description**
-![App Screenshot](https://github.com/tanishaguptaaaa/Resume_Analyzer/blob/main/Logo/image5.png?raw=true)
+- **Relevant Skills, Courses, and Roles Aligned with the Provided Job Description**  
+  ![App Screenshot](https://github.com/tanishaguptaaaa/Resume_Analyzer/blob/main/Logo/image5.png?raw=true)
 
 
