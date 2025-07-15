@@ -1,0 +1,11 @@
+streamlit==1.35.0
+pymysql
+pyresparser
+pdfminer.six
+spacy
+nltk
+geopy
+geocoder
+Pillow
+streamlit-tags
+
